@@ -1,0 +1,26 @@
+My name is Arigbede Omobolaji Paul. I'm a graduate of Computer Science from the Federal University Akure
+ I'm currently serrving in River States. I'm a fullstack developer
+
+
+
+
+
+
+ 
+
+// before using any node module you have to first import it
+const fs = require("fs");
+
+//fs.writeFileSync("notes.txt", "My name is Arigbede Omobolaji Paul");
+
+//Challenge: APpending a text to our note.txt using appendFileSync
+// fs.appendFileSync(
+//   "notes.txt",
+//   ". I'm a graduate of Computer Science from the Federal University Akure"
+// );
+
+// fs.appendFileSync(
+//   "notes.txt",
+//   "\n I'm currently serrving in River States. I'm a fullstack developer"
+// );
+ */
